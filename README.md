@@ -7,6 +7,7 @@ A double pendulum consists of one pendulum attached to another. Double pendulum 
 ### ASSUMPTIONS :
 + Consider a double bob pendulum with masses  and  attached by rigid massless wires of lengths l1 and l2.
 + Let the angles made by the pendulum with the vertical axis be q1 and q2
++ The joints are frictionless
 
 ---
 ### Resources : ###
