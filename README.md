@@ -1,6 +1,6 @@
 # Double Pendulum
 
-
+![Webp net-gifmaker](https://user-images.githubusercontent.com/42868197/57637150-4d29ba00-75c8-11e9-8cbb-e10b162b9d6c.gif)
 
 A double pendulum consists of one pendulum attached to another. Double pendulum is an example of a simple physical system which can exhibit chaotic behavior. For large motions it is a chaotic system, but for small motions it is a simple linear system. That is for small angles it behaves like a simple pendulum, but for large angles it exhibits a complex and chaotic motion, yet the motion is governed by a set of ordinary differential equations. Let's look at the derivation of this system and visualize it.
 
